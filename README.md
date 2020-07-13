@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+CTO at PubNub.  AI and APIs companies.
+
 <!--
 **stephenlb/stephenlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
