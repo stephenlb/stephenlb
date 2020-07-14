@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-CTO at PubNub.  AI and APIs.
+CTO at PubNub.  Building AI and APIs.
+
+https://www.linkedin.com/in/stephenlb/
 
 <!--
 **stephenlb/stephenlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
