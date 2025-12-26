@@ -1,6 +1,11 @@
-### Hi there 👋
+### Stephen Blum
 
-[CTO at PubNub.  Building AI and APIs.](https://www.linkedin.com/in/stephenlb/)
+CTO @ PubNub | $134M Series E | +1 Billion devices | 68 Patent claims | 25 Years
+
+ - [Stephen Blum YouTube](https://www.youtube.com/StephenBlum)
+ - [Stephen Blum LinkedIn](https://www.linkedin.com/in/stephenlb/)
+ - [Stephen Blum Discord](https://discord.gg/ZZc7KgxpJ3)
+
 
 <!--
 **stephenlb/stephenlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
