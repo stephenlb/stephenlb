@@ -1,6 +1,6 @@
 ### Stephen Blum
 
-CTO @ PubNub | $134M Series E | +1 Billion devices | 68 Patent claims | 25 Years
+CTO @ PubNub | $134M raised | Series E | +1 Billion devices | 68 Patent claims | 25 Years
 
  - [Stephen Blum YouTube](https://www.youtube.com/StephenBlum)
  - [Stephen Blum LinkedIn](https://www.linkedin.com/in/stephenlb/)
